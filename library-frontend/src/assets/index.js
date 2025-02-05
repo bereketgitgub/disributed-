@@ -1,0 +1,1 @@
+export const heroImage = 'https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1920'; 
